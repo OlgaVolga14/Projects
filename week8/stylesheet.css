@@ -1,0 +1,22 @@
+h1 {
+    font-size: 5rem;
+    font-weight: 300;
+}
+
+.high {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: var(--bs-card-cap-bg);
+}
+
+.nav-rnd {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.ft-rnd {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}

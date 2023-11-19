@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: "Intro";  
+    src: url("fonts/IntroDemo-BlackCAPS.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: bolder;
+     }
+
+     @font-face {
+        font-family: "RobotoSlab";
+        src: url("fonts/RobotoSlab-Light.ttf") format("truetype");
+        font-style: normal; 
+        font-weight: normal; 
+        }
+
+        h1{
+            font-family: Intro;
+        }
+body{
+    font-family: RobotoSlab;
+    font-size: 20px;
+}
+
+.down{
+    padding-top: 10rem;
+}
+
+.cntr{
+padding-top: 6rem;
+padding-bottom: 2rem;
+}
+
+footer{
+    padding-top: 6rem;
+}
+
+.nav-link{
+    padding: 0 0.5rem;
+}
+
+.btn-bucket{
+    background-color: #5222D0;
+    border-radius: 1em;
+}
+
+.img-wrap {
+    position: relative;
+  }
+  .img-wrap img {
+    position: absolute;
+  }
+
+  .prpl{
+    color: #5222D0;
+  }
